@@ -4,7 +4,7 @@
 </p>
 <h3>Example</h3>
 <p>
- &lt;p class="c2"&gt; 
+ &lt;p class="c1"&gt; 
  This is a test text that contain a link www.google.com
  &lt;/p&gt; 
 
